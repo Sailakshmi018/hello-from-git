@@ -1,1 +1,3 @@
 Hello from git - first line
+
+second line is added
